@@ -51,6 +51,7 @@ class Master:
 
   def chat(self, message: str, thread_id: str = "user123"):
     res = self.agent.invoke({"messages": [("user", message)]}, config={"configurable": {"thread_id": thread_id}})
+    print(res)
     return res['messages'][-1].content
 
   async def chat_stream(self, message: str, websocket: WebSocket):
