@@ -49,7 +49,7 @@ class Master:
     )
     self.agent = agent
 
-  def chat(self, message: str, thread_id: str):
+  def chat(self, message: str, thread_id: str = "user123"):
     res = self.agent.invoke({"messages": [("user", message)]}, config={"configurable": {"thread_id": thread_id}})
     return res['messages'][-1].content
 
@@ -94,20 +94,3 @@ async def websocket_endpoint(websocket: WebSocket):
 
 if __name__ == "__main__":
   run(app, host="0.0.0.0", port=8000)
-
-
-a = {
-  "input": {
-    "messages": [
-      {
-        "content": "你好呀",
-        "type": "human"
-      }
-    ]
-  },
-  "config":{
-    "configurable": {
-      "thread_id": "user123"
-    }
-  }
-}
