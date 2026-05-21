@@ -59,3 +59,7 @@
 2026-05-21 14:04:19,193 - ai_assistant - INFO - 服务启动成功
 2026-05-21 14:06:53,283 - ai_assistant - INFO - 收到请求，session_id: user456
 2026-05-21 15:04:28,395 - ai_assistant - INFO - 服务关闭
+2026-05-21 15:04:31,908 - ai_assistant - INFO - 服务启动成功
+2026-05-21 15:23:17,351 - ai_assistant - INFO - 服务关闭
+2026-05-21 15:23:19,873 - ai_assistant - INFO - 服务启动成功
+2026-05-21 15:23:28,074 - ai_assistant - INFO - 服务关闭
