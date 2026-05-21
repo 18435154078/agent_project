@@ -12,9 +12,9 @@ load_dotenv(f".env.{ENV}")
 
 class Settings(BaseSettings):
     # 服务
-    SERVER_HOST: str = "0.0.0.0"
-    SERVER_PORT: int = 8000
-    
+    SERVER_HOST: str
+    SERVER_PORT: int
+
 
     # 大模型
     DOUBAO_API_KEY: str
@@ -27,8 +27,8 @@ class Settings(BaseSettings):
 
 
     # Redis
-    REDIS_HOST: str = "localhost"
-    REDIS_PORT: int = 6379
+    REDIS_HOST: str
+    REDIS_PORT: int 
     REDIS_DB: int = 0
 
     # RAG
