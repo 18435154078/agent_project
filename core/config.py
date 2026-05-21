@@ -4,7 +4,7 @@ import os
 import sys
 
 # 获取环境
-ENV = "dev"
+ENV = "pro"
 for arg in sys.argv:
     if arg.startswith("ENV="):
         ENV = arg.split("=")[1]
