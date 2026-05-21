@@ -14,6 +14,7 @@ class Settings(BaseSettings):
     # 服务
     SERVER_HOST: str = "0.0.0.0"
     SERVER_PORT: int = 8000
+    
 
     # 大模型
     DOUBAO_API_KEY: str
