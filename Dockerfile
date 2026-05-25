@@ -1,5 +1,6 @@
 # 第一阶段：构建依赖（用阿里云镜像源）
-FROM python:3.11.9 AS builder
+# FROM python:3.11.9 AS builder
+FROM registry.aliyuncs.com/library/python:3.11.9 AS builder
 # 或者用阿里云镜像：FROM registry.aliyuncs.com/library/python:3.11.9 AS builder
 
 # 升级pip，用清华源
