@@ -71,3 +71,531 @@
 2026-05-21 15:46:51,366 - ai_assistant - INFO - 服务关闭
 2026-05-21 15:46:54,031 - ai_assistant - INFO - 服务启动成功
 2026-05-21 15:59:34,566 - ai_assistant - INFO - 服务关闭
+2026-05-21 15:59:37,192 - ai_assistant - INFO - 服务启动成功
+2026-05-21 16:10:49,764 - ai_assistant - INFO - 服务关闭
+2026-05-21 16:18:06,898 - ai_assistant - INFO - 服务启动成功
+2026-05-21 16:19:18,207 - ai_assistant - INFO - 服务关闭
+2026-05-21 16:19:20,763 - ai_assistant - INFO - 服务启动成功
+2026-05-21 16:19:38,172 - ai_assistant - INFO - 服务关闭
+2026-05-21 16:19:40,856 - ai_assistant - INFO - 服务启动成功
+2026-05-21 16:21:07,994 - ai_assistant - INFO - 服务关闭
+2026-05-21 16:21:10,637 - ai_assistant - INFO - 服务启动成功
+2026-05-21 16:56:30,839 - ai_assistant - INFO - 收到请求，session_id: user123
+2026-05-21 17:04:32,591 - ai_assistant - INFO - 服务关闭
+2026-05-23 14:17:28,555 - ai_assistant - INFO - 服务启动成功
+2026-05-23 14:19:10,508 - ai_assistant - INFO - 服务关闭
+2026-05-23 14:19:13,042 - ai_assistant - INFO - 服务启动成功
+2026-05-23 14:21:15,243 - ai_assistant - INFO - 服务关闭
+2026-05-23 14:21:17,816 - ai_assistant - INFO - 服务启动成功
+2026-05-23 14:21:31,471 - ai_assistant - INFO - 服务关闭
+2026-05-23 14:23:13,412 - ai_assistant - INFO - 服务启动成功
+2026-05-23 14:24:31,574 - ai_assistant - INFO - 服务关闭
+2026-05-23 14:24:38,430 - ai_assistant - INFO - 服务启动成功
+2026-05-23 14:35:59,531 - ai_assistant - INFO - 服务关闭
+2026-05-23 14:36:02,123 - ai_assistant - INFO - 服务启动成功
+2026-05-23 14:36:39,569 - ai_assistant - INFO - 服务关闭
+2026-05-23 14:36:42,200 - ai_assistant - INFO - 服务启动成功
+2026-05-23 14:36:51,194 - ai_assistant - INFO - 服务关闭
+2026-05-23 14:36:53,787 - ai_assistant - INFO - 服务启动成功
+2026-05-23 14:38:13,904 - ai_assistant - INFO - 服务关闭
+2026-05-23 14:38:16,510 - ai_assistant - INFO - 服务启动成功
+2026-05-23 14:38:16,642 - ai_assistant - INFO - 服务关闭
+2026-05-23 14:38:19,268 - ai_assistant - INFO - 服务启动成功
+2026-05-23 14:38:33,965 - ai_assistant - INFO - 服务关闭
+2026-05-23 14:38:36,623 - ai_assistant - INFO - 服务启动成功
+2026-05-23 14:38:40,926 - ai_assistant - INFO - 服务关闭
+2026-05-23 14:38:43,614 - ai_assistant - INFO - 服务启动成功
+2026-05-23 14:39:16,631 - ai_assistant - INFO - 服务关闭
+2026-05-23 14:39:19,547 - ai_assistant - INFO - 服务启动成功
+2026-05-23 14:40:19,269 - ai_assistant - INFO - 服务关闭
+2026-05-23 14:40:21,926 - ai_assistant - INFO - 服务启动成功
+2026-05-23 14:43:47,843 - ai_assistant - INFO - 服务关闭
+2026-05-23 14:43:51,155 - ai_assistant - INFO - 服务启动成功
+2026-05-23 14:44:23,045 - ai_assistant - INFO - 服务关闭
+2026-05-23 14:44:25,858 - ai_assistant - INFO - 服务启动成功
+2026-05-23 14:44:35,265 - ai_assistant - INFO - 服务关闭
+2026-05-23 14:44:38,103 - ai_assistant - INFO - 服务启动成功
+2026-05-23 14:44:38,887 - ai_assistant - INFO - 服务关闭
+2026-05-23 14:44:41,953 - ai_assistant - INFO - 服务启动成功
+2026-05-23 14:45:15,896 - ai_assistant - INFO - 服务关闭
+2026-05-23 14:45:18,919 - ai_assistant - INFO - 服务启动成功
+2026-05-23 14:46:28,930 - ai_assistant - INFO - 服务关闭
+2026-05-23 14:46:31,959 - ai_assistant - INFO - 服务启动成功
+2026-05-23 14:46:39,627 - ai_assistant - INFO - 服务关闭
+2026-05-23 14:46:42,475 - ai_assistant - INFO - 服务启动成功
+2026-05-23 14:47:34,729 - ai_assistant - INFO - 服务关闭
+2026-05-23 14:47:37,763 - ai_assistant - INFO - 服务启动成功
+2026-05-23 14:47:47,725 - ai_assistant - INFO - 服务关闭
+2026-05-23 14:47:51,018 - ai_assistant - INFO - 服务启动成功
+2026-05-23 14:48:14,351 - ai_assistant - INFO - 服务关闭
+2026-05-23 14:48:17,485 - ai_assistant - INFO - 服务启动成功
+2026-05-23 14:49:20,124 - ai_assistant - INFO - 服务关闭
+2026-05-23 14:49:23,216 - ai_assistant - INFO - 服务启动成功
+2026-05-23 14:49:46,400 - ai_assistant - INFO - 服务关闭
+2026-05-23 14:49:49,440 - ai_assistant - INFO - 服务启动成功
+2026-05-23 14:50:00,934 - ai_assistant - INFO - 服务关闭
+2026-05-23 14:52:08,310 - ai_assistant - INFO - 服务启动成功
+2026-05-23 14:53:55,248 - ai_assistant - INFO - 服务关闭
+2026-05-23 14:57:18,610 - ai_assistant - INFO - 服务启动成功
+2026-05-23 14:58:56,331 - ai_assistant - INFO - 服务关闭
+2026-05-23 14:58:59,135 - ai_assistant - INFO - 服务启动成功
+2026-05-23 15:00:01,161 - ai_assistant - INFO - 服务关闭
+2026-05-23 15:00:17,528 - ai_assistant - INFO - 服务启动成功
+2026-05-23 15:01:18,114 - ai_assistant - INFO - 服务关闭
+2026-05-23 15:01:20,913 - ai_assistant - INFO - 服务启动成功
+2026-05-23 15:01:30,236 - ai_assistant - INFO - 服务关闭
+2026-05-23 15:01:32,973 - ai_assistant - INFO - 服务启动成功
+2026-05-23 15:03:58,209 - ai_assistant - INFO - 服务关闭
+2026-05-23 15:04:01,081 - ai_assistant - INFO - 服务启动成功
+2026-05-23 15:09:00,086 - ai_assistant - INFO - 服务关闭
+2026-05-23 15:09:02,944 - ai_assistant - INFO - 服务启动成功
+2026-05-23 15:09:27,127 - ai_assistant - INFO - 服务关闭
+2026-05-23 15:09:30,174 - ai_assistant - INFO - 服务启动成功
+2026-05-23 15:09:46,904 - ai_assistant - INFO - 服务关闭
+2026-05-23 15:09:49,749 - ai_assistant - INFO - 服务启动成功
+2026-05-23 15:10:41,662 - ai_assistant - INFO - 服务关闭
+2026-05-23 15:10:48,227 - ai_assistant - INFO - 服务启动成功
+2026-05-23 15:11:02,388 - ai_assistant - INFO - 服务关闭
+2026-05-23 15:11:05,219 - ai_assistant - INFO - 服务启动成功
+2026-05-23 15:11:05,787 - ai_assistant - INFO - 服务关闭
+2026-05-23 15:11:08,660 - ai_assistant - INFO - 服务启动成功
+2026-05-23 15:18:04,297 - ai_assistant - INFO - 服务关闭
+2026-05-23 15:34:39,215 - ai_assistant - INFO - 服务启动成功
+2026-05-23 15:34:42,855 - ai_assistant - INFO - 服务关闭
+2026-05-23 15:34:46,077 - ai_assistant - INFO - 服务启动成功
+2026-05-23 15:38:08,502 - ai_assistant - INFO - 服务关闭
+2026-05-23 15:38:11,505 - ai_assistant - INFO - 服务启动成功
+2026-05-23 15:38:12,513 - ai_assistant - INFO - 服务关闭
+2026-05-23 15:38:21,340 - ai_assistant - INFO - 服务启动成功
+2026-05-23 15:38:25,697 - ai_assistant - INFO - 文件 ./uploads\3daea749f65a4aac8b2e8302527412e9.pdf 加载成功，内容长度: 69135
+2026-05-23 15:38:25,703 - ai_assistant - INFO - 文件 ./uploads\3daea749f65a4aac8b2e8302527412e9.pdf 清洗成功，内容长度: 65601
+2026-05-23 15:38:25,715 - ai_assistant - INFO - 文件 ./uploads\3daea749f65a4aac8b2e8302527412e9.pdf 分片成功，分片数量: 82
+2026-05-23 15:39:28,675 - ai_assistant - INFO - 服务关闭
+2026-05-23 15:39:31,579 - ai_assistant - INFO - 服务启动成功
+2026-05-23 15:39:40,561 - ai_assistant - INFO - 文件 ./uploads\20f18ab152e448ec987fdd78831310cc.pdf 加载成功，内容长度: 69135
+2026-05-23 15:39:40,567 - ai_assistant - INFO - 文件 ./uploads\20f18ab152e448ec987fdd78831310cc.pdf 清洗成功，内容长度: 65601
+2026-05-23 15:39:40,578 - ai_assistant - INFO - 文件 ./uploads\20f18ab152e448ec987fdd78831310cc.pdf 分片成功，分片数量: 82
+2026-05-23 15:39:57,562 - ai_assistant - INFO - 服务关闭
+2026-05-23 15:40:00,669 - ai_assistant - INFO - 服务启动成功
+2026-05-23 15:40:02,592 - ai_assistant - INFO - 文件 ./uploads\fd675ef9c77b4105beeb7458519328ce.pdf 加载成功，内容长度: 69135
+2026-05-23 15:40:02,597 - ai_assistant - INFO - 文件 ./uploads\fd675ef9c77b4105beeb7458519328ce.pdf 清洗成功，内容长度: 65601
+2026-05-23 15:40:02,607 - ai_assistant - INFO - 文件 ./uploads\fd675ef9c77b4105beeb7458519328ce.pdf 分片成功，分片数量: 82
+2026-05-23 15:40:03,942 - ai_assistant - ERROR - 存储向量数据库时发生错误: Error code: 400 - {'error': {'message': '<400> InternalError.Algo.InvalidParameter: Value error, contents is neither str nor list of str.: input.contents', 'type': 'InvalidParameter', 'param': None, 'code': 'InvalidParameter'}, 'id': '932d745f-1f35-971b-af55-fb3e7af86466', 'request_id': '932d745f-1f35-971b-af55-fb3e7af86466'}
+2026-05-23 15:40:03,943 - ai_assistant - INFO - 文件 ./uploads\fd675ef9c77b4105beeb7458519328ce.pdf 存储向量数据库成功
+2026-05-23 15:40:43,907 - ai_assistant - INFO - 服务关闭
+2026-05-23 15:43:39,404 - ai_assistant - INFO - 服务启动成功
+2026-05-23 15:43:45,945 - ai_assistant - INFO - 文件 ./uploads\9a49fd74429e4ecd8666d705d736adff.pdf 加载成功，内容长度: 69135
+2026-05-23 15:43:45,950 - ai_assistant - INFO - 文件 ./uploads\9a49fd74429e4ecd8666d705d736adff.pdf 清洗成功，内容长度: 65601
+2026-05-23 15:43:45,960 - ai_assistant - INFO - 文件 ./uploads\9a49fd74429e4ecd8666d705d736adff.pdf 分片成功，分片数量: 82
+2026-05-23 15:43:46,248 - ai_assistant - ERROR - 存储向量数据库时发生错误: Error code: 400 - {'error': {'message': '<400> InternalError.Algo.InvalidParameter: Value error, batch size is invalid, it should not be larger than 10.: input.contents', 'type': 'InvalidParameter', 'param': None, 'code': 'InvalidParameter'}, 'id': '9b6ceda9-b8a0-9693-a598-41f9f620bead', 'request_id': '9b6ceda9-b8a0-9693-a598-41f9f620bead'}
+2026-05-23 15:43:46,249 - ai_assistant - INFO - 文件 ./uploads\9a49fd74429e4ecd8666d705d736adff.pdf 存储向量数据库成功
+2026-05-23 15:46:04,353 - ai_assistant - INFO - 服务关闭
+2026-05-23 15:46:30,256 - ai_assistant - INFO - 服务启动成功
+2026-05-23 15:46:32,237 - ai_assistant - INFO - 文件 ./uploads\eab871c165bf42aabb3cbe568c04911d.pdf 加载成功，内容长度: 69135
+2026-05-23 15:46:32,243 - ai_assistant - INFO - 文件 ./uploads\eab871c165bf42aabb3cbe568c04911d.pdf 清洗成功，内容长度: 65601
+2026-05-23 15:46:32,254 - ai_assistant - INFO - 文件 ./uploads\eab871c165bf42aabb3cbe568c04911d.pdf 分片成功，分片数量: 82
+2026-05-23 15:46:33,304 - ai_assistant - ERROR - 存储向量数据库时发生错误: Error code: 400 - {'error': {'message': '<400> InternalError.Algo.InvalidParameter: Value error, contents is neither str nor list of str.: input.contents', 'type': 'InvalidParameter', 'param': None, 'code': 'InvalidParameter'}, 'id': '7dfd78d7-36a2-9aca-80e1-010a79e7fe18', 'request_id': '7dfd78d7-36a2-9aca-80e1-010a79e7fe18'}
+2026-05-23 15:46:33,305 - ai_assistant - INFO - 文件 ./uploads\eab871c165bf42aabb3cbe568c04911d.pdf 存储向量数据库成功
+2026-05-23 15:46:35,115 - ai_assistant - INFO - 文件 ./uploads\31b381c149f9405f957285a9ee176cb9.pdf 加载成功，内容长度: 69135
+2026-05-23 15:46:35,120 - ai_assistant - INFO - 文件 ./uploads\31b381c149f9405f957285a9ee176cb9.pdf 清洗成功，内容长度: 65601
+2026-05-23 15:46:35,130 - ai_assistant - INFO - 文件 ./uploads\31b381c149f9405f957285a9ee176cb9.pdf 分片成功，分片数量: 82
+2026-05-23 15:46:36,044 - ai_assistant - ERROR - 存储向量数据库时发生错误: Error code: 400 - {'error': {'message': '<400> InternalError.Algo.InvalidParameter: Value error, contents is neither str nor list of str.: input.contents', 'type': 'InvalidParameter', 'param': None, 'code': 'InvalidParameter'}, 'id': 'ef5fff25-3589-940e-aac0-9904301be174', 'request_id': 'ef5fff25-3589-940e-aac0-9904301be174'}
+2026-05-23 15:46:36,044 - ai_assistant - INFO - 文件 ./uploads\31b381c149f9405f957285a9ee176cb9.pdf 存储向量数据库成功
+2026-05-23 15:48:04,725 - ai_assistant - INFO - 服务关闭
+2026-05-23 15:48:07,711 - ai_assistant - INFO - 服务启动成功
+2026-05-23 15:48:12,443 - ai_assistant - INFO - 文件 ./uploads\d62b5853fd104c608001f4d82d385d11.pdf 加载成功，内容长度: 69135
+2026-05-23 15:48:12,453 - ai_assistant - INFO - 文件 ./uploads\d62b5853fd104c608001f4d82d385d11.pdf 清洗成功，内容长度: 65601
+2026-05-23 15:48:12,466 - ai_assistant - INFO - 文件 ./uploads\d62b5853fd104c608001f4d82d385d11.pdf 分片成功，分片数量: 82
+2026-05-23 15:48:12,467 - ai_assistant - ERROR - 存储向量数据库时发生错误: 'str' object has no attribute 'page_content'
+2026-05-23 15:48:12,467 - ai_assistant - INFO - 文件 ./uploads\d62b5853fd104c608001f4d82d385d11.pdf 存储向量数据库成功
+2026-05-23 15:50:17,188 - ai_assistant - INFO - 服务关闭
+2026-05-23 15:50:20,312 - ai_assistant - INFO - 服务启动成功
+2026-05-23 15:50:23,223 - ai_assistant - INFO - 文件 ./uploads\53851c31d82c46c1a0043dcef0cfe7f2.pdf 加载成功，内容长度: 69135
+2026-05-23 15:50:23,229 - ai_assistant - INFO - 文件 ./uploads\53851c31d82c46c1a0043dcef0cfe7f2.pdf 清洗成功，内容长度: 65601
+2026-05-23 15:50:24,040 - ai_assistant - INFO - 文件 ./uploads\53851c31d82c46c1a0043dcef0cfe7f2.pdf 分片成功，分片数量: 55812
+2026-05-23 15:50:25,179 - ai_assistant - ERROR - 存储向量数据库时发生错误: Error code: 400 - {'error': {'message': '<400> InternalError.Algo.InvalidParameter: Value error, contents is neither str nor list of str.: input.contents', 'type': 'InvalidParameter', 'param': None, 'code': 'InvalidParameter'}, 'id': '1f430a8a-a01a-9be7-85cc-b891c10bbf1c', 'request_id': '1f430a8a-a01a-9be7-85cc-b891c10bbf1c'}
+2026-05-23 15:50:25,182 - ai_assistant - INFO - 文件 ./uploads\53851c31d82c46c1a0043dcef0cfe7f2.pdf 存储向量数据库成功
+2026-05-23 15:51:05,520 - ai_assistant - INFO - 服务关闭
+2026-05-23 15:51:08,600 - ai_assistant - INFO - 服务启动成功
+2026-05-23 15:51:12,946 - ai_assistant - INFO - 文件 ./uploads\570c9c9107ec479c934df4e782e8dca1.pdf 加载成功，内容长度: 69135
+2026-05-23 15:51:12,951 - ai_assistant - INFO - 文件 ./uploads\570c9c9107ec479c934df4e782e8dca1.pdf 清洗成功，内容长度: 65601
+2026-05-23 15:51:12,963 - ai_assistant - INFO - 文件 ./uploads\570c9c9107ec479c934df4e782e8dca1.pdf 分片成功，分片数量: 82
+2026-05-23 15:51:14,128 - ai_assistant - ERROR - 存储向量数据库时发生错误: Error code: 400 - {'error': {'message': '<400> InternalError.Algo.InvalidParameter: Value error, contents is neither str nor list of str.: input.contents', 'type': 'InvalidParameter', 'param': None, 'code': 'InvalidParameter'}, 'id': 'bc6f7858-aa6c-99d8-93ee-9789ee52dbc4', 'request_id': 'bc6f7858-aa6c-99d8-93ee-9789ee52dbc4'}
+2026-05-23 15:51:14,129 - ai_assistant - INFO - 文件 ./uploads\570c9c9107ec479c934df4e782e8dca1.pdf 存储向量数据库成功
+2026-05-23 15:51:48,600 - ai_assistant - INFO - 服务关闭
+2026-05-23 15:51:51,551 - ai_assistant - INFO - 服务启动成功
+2026-05-23 15:53:10,485 - ai_assistant - INFO - 服务关闭
+2026-05-23 15:53:13,498 - ai_assistant - INFO - 服务启动成功
+2026-05-23 15:53:18,177 - ai_assistant - INFO - 文件 ./uploads\9fa85d49402c49318364760f2cae2c90.pdf 加载成功，内容长度: 1576
+2026-05-23 15:53:18,181 - ai_assistant - INFO - 文件 ./uploads\9fa85d49402c49318364760f2cae2c90.pdf 清洗成功，内容长度: 1562
+2026-05-23 15:53:18,181 - ai_assistant - INFO - 文件 ./uploads\9fa85d49402c49318364760f2cae2c90.pdf 分片成功，分片数量: 2
+2026-05-23 15:53:18,755 - ai_assistant - ERROR - 存储向量数据库时发生错误: Error code: 400 - {'error': {'message': '<400> InternalError.Algo.InvalidParameter: Value error, contents is neither str nor list of str.: input.contents', 'type': 'InvalidParameter', 'param': None, 'code': 'InvalidParameter'}, 'id': 'bf4ed2d3-d20d-9454-b364-480e1dd36481', 'request_id': 'bf4ed2d3-d20d-9454-b364-480e1dd36481'}
+2026-05-23 15:53:18,755 - ai_assistant - INFO - 文件 ./uploads\9fa85d49402c49318364760f2cae2c90.pdf 存储向量数据库成功
+2026-05-23 15:54:36,926 - ai_assistant - INFO - 服务关闭
+2026-05-23 15:54:39,806 - ai_assistant - INFO - 服务启动成功
+2026-05-23 15:54:45,098 - ai_assistant - INFO - 文件 ./uploads\92fc369509104965bb476f6cb1c90907.pdf 加载成功，内容长度: 1576
+2026-05-23 15:54:45,100 - ai_assistant - INFO - 文件 ./uploads\92fc369509104965bb476f6cb1c90907.pdf 清洗成功，内容长度: 1562
+2026-05-23 15:54:45,101 - ai_assistant - INFO - 文件 ./uploads\92fc369509104965bb476f6cb1c90907.pdf 分片成功，分片数量: 20
+2026-05-23 15:54:45,673 - ai_assistant - ERROR - 存储向量数据库时发生错误: Error code: 400 - {'error': {'message': '<400> InternalError.Algo.InvalidParameter: Value error, contents is neither str nor list of str.: input.contents', 'type': 'InvalidParameter', 'param': None, 'code': 'InvalidParameter'}, 'id': '0fd87d24-cca0-9c6d-a5ff-acf7ec639442', 'request_id': '0fd87d24-cca0-9c6d-a5ff-acf7ec639442'}
+2026-05-23 15:54:45,673 - ai_assistant - INFO - 文件 ./uploads\92fc369509104965bb476f6cb1c90907.pdf 存储向量数据库成功
+2026-05-23 15:56:18,675 - ai_assistant - INFO - 服务关闭
+2026-05-23 15:56:21,664 - ai_assistant - INFO - 服务启动成功
+2026-05-23 15:57:03,628 - ai_assistant - INFO - 服务关闭
+2026-05-23 15:57:06,526 - ai_assistant - INFO - 服务启动成功
+2026-05-23 15:57:10,746 - ai_assistant - INFO - 服务关闭
+2026-05-23 15:57:13,701 - ai_assistant - INFO - 服务启动成功
+2026-05-23 15:57:18,002 - ai_assistant - INFO - 文件 ./uploads\ede182f512504132aca72eca9edd1a72.pdf 加载成功，内容长度: 1576
+2026-05-23 15:57:18,005 - ai_assistant - INFO - 文件 ./uploads\ede182f512504132aca72eca9edd1a72.pdf 清洗成功，内容长度: 1562
+2026-05-23 15:57:18,006 - ai_assistant - INFO - 文件 ./uploads\ede182f512504132aca72eca9edd1a72.pdf 分片成功，分片数量: 20
+2026-05-23 15:57:18,870 - ai_assistant - ERROR - 存储向量数据库时发生错误: Error code: 400 - {'error': {'message': '<400> InternalError.Algo.InvalidParameter: Value error, contents is neither str nor list of str.: input.contents', 'type': 'InvalidParameter', 'param': None, 'code': 'InvalidParameter'}, 'id': 'f3b51762-20a5-9fac-a80c-8d2571fc0510', 'request_id': 'f3b51762-20a5-9fac-a80c-8d2571fc0510'}
+2026-05-23 15:57:18,871 - ai_assistant - INFO - 文件 ./uploads\ede182f512504132aca72eca9edd1a72.pdf 存储向量数据库成功
+2026-05-23 15:59:43,975 - ai_assistant - INFO - 服务关闭
+2026-05-23 15:59:47,133 - ai_assistant - INFO - 服务启动成功
+2026-05-23 16:02:34,861 - ai_assistant - INFO - 服务关闭
+2026-05-23 16:02:37,776 - ai_assistant - INFO - 服务启动成功
+2026-05-23 16:02:43,968 - ai_assistant - INFO - 文件 ./uploads\d3767aae2c3c4d0cb1bc9e5d93a9cb2f.pdf 加载成功，内容长度: 1576
+2026-05-23 16:02:43,971 - ai_assistant - INFO - 文件 ./uploads\d3767aae2c3c4d0cb1bc9e5d93a9cb2f.pdf 清洗成功，内容长度: 1562
+2026-05-23 16:03:37,781 - ai_assistant - INFO - 服务关闭
+2026-05-23 16:03:40,992 - ai_assistant - INFO - 服务启动成功
+2026-05-23 16:03:45,700 - ai_assistant - INFO - 文件 ./uploads\521a605daeb440a38ed105f824d91a5a.pdf 加载成功，内容长度: 1576
+2026-05-23 16:03:45,703 - ai_assistant - INFO - 文件 ./uploads\521a605daeb440a38ed105f824d91a5a.pdf 清洗成功，内容长度: 1562
+2026-05-23 16:03:45,704 - ai_assistant - INFO - 文件 ./uploads\521a605daeb440a38ed105f824d91a5a.pdf 分片成功，分片数量: 20
+2026-05-23 16:03:46,051 - ai_assistant - ERROR - 存储向量数据库时发生错误: Error code: 400 - {'error': {'message': '<400> InternalError.Algo.InvalidParameter: Value error, batch size is invalid, it should not be larger than 10.: input.contents', 'type': 'InvalidParameter', 'param': None, 'code': 'InvalidParameter'}, 'id': 'e40d2a50-4e76-924d-8bd2-4a51c04cc6eb', 'request_id': 'e40d2a50-4e76-924d-8bd2-4a51c04cc6eb'}
+2026-05-23 16:03:46,052 - ai_assistant - INFO - 文件 ./uploads\521a605daeb440a38ed105f824d91a5a.pdf 存储向量数据库成功
+2026-05-23 16:05:39,789 - ai_assistant - INFO - 服务关闭
+2026-05-23 16:05:43,010 - ai_assistant - INFO - 服务启动成功
+2026-05-23 16:07:16,853 - ai_assistant - INFO - 服务关闭
+2026-05-23 16:07:19,803 - ai_assistant - INFO - 服务启动成功
+2026-05-23 16:07:27,673 - ai_assistant - INFO - 服务关闭
+2026-05-23 16:07:30,628 - ai_assistant - INFO - 服务启动成功
+2026-05-23 16:07:33,380 - ai_assistant - INFO - 文件 ./uploads\fe0366f67b2d444b90641fd5913e635d.pdf 加载成功，内容长度: 1576
+2026-05-23 16:07:33,382 - ai_assistant - INFO - 文件 ./uploads\fe0366f67b2d444b90641fd5913e635d.pdf 清洗成功，内容长度: 1562
+2026-05-23 16:07:33,383 - ai_assistant - INFO - 文件 ./uploads\fe0366f67b2d444b90641fd5913e635d.pdf 分片成功，分片数量: 20
+2026-05-23 16:07:34,168 - ai_assistant - ERROR - 存储向量数据库时发生错误: Error code: 400 - {'error': {'message': '<400> InternalError.Algo.InvalidParameter: Value error, batch size is invalid, it should not be larger than 10.: input.contents', 'type': 'InvalidParameter', 'param': None, 'code': 'InvalidParameter'}, 'id': 'f5d3e7dd-5994-93f7-bf39-bc44104e414f', 'request_id': 'f5d3e7dd-5994-93f7-bf39-bc44104e414f'}
+2026-05-23 16:07:34,169 - ai_assistant - INFO - 文件 ./uploads\fe0366f67b2d444b90641fd5913e635d.pdf 存储向量数据库成功
+2026-05-23 16:09:49,139 - ai_assistant - INFO - 服务关闭
+2026-05-23 16:09:52,186 - ai_assistant - INFO - 服务启动成功
+2026-05-23 16:09:55,844 - ai_assistant - INFO - 文件 ./uploads\64c42ed5c63d44bf8fe21cc86a24f837.pdf 加载成功，内容长度: 1576
+2026-05-23 16:09:55,847 - ai_assistant - INFO - 文件 ./uploads\64c42ed5c63d44bf8fe21cc86a24f837.pdf 清洗成功，内容长度: 1562
+2026-05-23 16:09:55,848 - ai_assistant - INFO - 文件 ./uploads\64c42ed5c63d44bf8fe21cc86a24f837.pdf 分片成功，分片数量: 2
+2026-05-23 16:09:56,093 - ai_assistant - ERROR - 存储向量数据库时发生错误: Could not import faiss python package. Please install it with `pip install faiss-gpu` (for CUDA supported GPU) or `pip install faiss-cpu` (depending on Python version).
+2026-05-23 16:09:56,093 - ai_assistant - INFO - 文件 ./uploads\64c42ed5c63d44bf8fe21cc86a24f837.pdf 存储向量数据库成功
+2026-05-23 16:10:07,349 - ai_assistant - INFO - 服务关闭
+2026-05-23 16:11:54,548 - ai_assistant - INFO - 服务启动成功
+2026-05-23 16:11:57,354 - ai_assistant - INFO - 文件 ./uploads\3ebf3cdcd8484b7398905f560487e600.pdf 加载成功，内容长度: 1576
+2026-05-23 16:11:57,357 - ai_assistant - INFO - 文件 ./uploads\3ebf3cdcd8484b7398905f560487e600.pdf 清洗成功，内容长度: 1562
+2026-05-23 16:11:57,357 - ai_assistant - INFO - 文件 ./uploads\3ebf3cdcd8484b7398905f560487e600.pdf 分片成功，分片数量: 2
+2026-05-23 16:11:57,618 - ai_assistant - INFO - 文件 ./uploads\3ebf3cdcd8484b7398905f560487e600.pdf 存储向量数据库成功
+2026-05-23 16:14:33,050 - ai_assistant - INFO - 服务关闭
+2026-05-23 16:14:36,201 - ai_assistant - INFO - 服务启动成功
+2026-05-23 16:14:40,035 - ai_assistant - INFO - 文件 ./uploads\b4243e57614f47acb3307c0e770a094a.pdf 加载成功，内容长度: 1576
+2026-05-23 16:14:40,037 - ai_assistant - INFO - 文件 ./uploads\b4243e57614f47acb3307c0e770a094a.pdf 清洗成功，内容长度: 1562
+2026-05-23 16:14:40,038 - ai_assistant - INFO - 文件 ./uploads\b4243e57614f47acb3307c0e770a094a.pdf 分片成功，分片数量: 2
+2026-05-23 16:14:40,309 - ai_assistant - INFO - 文件 ./uploads\b4243e57614f47acb3307c0e770a094a.pdf 存储向量数据库成功
+2026-05-23 16:14:45,136 - ai_assistant - INFO - 服务关闭
+2026-05-23 16:14:54,482 - ai_assistant - INFO - 服务启动成功
+2026-05-23 16:15:06,793 - ai_assistant - INFO - 文件 ./uploads\c6b494be2fb748799727735956c0ae36.pdf 加载成功，内容长度: 1576
+2026-05-23 16:15:06,796 - ai_assistant - INFO - 文件 ./uploads\c6b494be2fb748799727735956c0ae36.pdf 清洗成功，内容长度: 1562
+2026-05-23 16:15:06,797 - ai_assistant - INFO - 文件 ./uploads\c6b494be2fb748799727735956c0ae36.pdf 分片成功，分片数量: 2
+2026-05-23 16:15:07,027 - ai_assistant - INFO - 文件 ./uploads\c6b494be2fb748799727735956c0ae36.pdf 存储向量数据库成功
+2026-05-23 16:16:55,086 - ai_assistant - INFO - 服务关闭
+2026-05-23 16:16:58,202 - ai_assistant - INFO - 服务启动成功
+2026-05-23 16:17:01,968 - ai_assistant - INFO - 文件 ./uploads\3c758c51fc694e1aa27fd4010393c445.pdf 加载成功，内容长度: 1576
+2026-05-23 16:17:01,971 - ai_assistant - INFO - 文件 ./uploads\3c758c51fc694e1aa27fd4010393c445.pdf 清洗成功，内容长度: 1562
+2026-05-23 16:17:01,972 - ai_assistant - INFO - 文件 ./uploads\3c758c51fc694e1aa27fd4010393c445.pdf 分片成功，分片数量: 20
+2026-05-23 16:17:02,266 - ai_assistant - ERROR - 存储向量数据库时发生错误: Error code: 400 - {'error': {'message': '<400> InternalError.Algo.InvalidParameter: Value error, batch size is invalid, it should not be larger than 10.: input.contents', 'type': 'InvalidParameter', 'param': None, 'code': 'InvalidParameter'}, 'id': 'add467e4-4187-9b65-83dc-083dee0d0c6a', 'request_id': 'add467e4-4187-9b65-83dc-083dee0d0c6a'}
+2026-05-23 16:17:02,266 - ai_assistant - INFO - 文件 ./uploads\3c758c51fc694e1aa27fd4010393c445.pdf 存储向量数据库成功
+2026-05-23 16:18:25,173 - ai_assistant - INFO - 服务关闭
+2026-05-23 16:18:28,309 - ai_assistant - INFO - 服务启动成功
+2026-05-23 16:18:43,051 - ai_assistant - INFO - 文件 ./uploads\d296e996ec9b429a91091541f7ffb38d.pdf 加载成功，内容长度: 1576
+2026-05-23 16:18:43,054 - ai_assistant - INFO - 文件 ./uploads\d296e996ec9b429a91091541f7ffb38d.pdf 清洗成功，内容长度: 1562
+2026-05-23 16:18:43,055 - ai_assistant - INFO - 文件 ./uploads\d296e996ec9b429a91091541f7ffb38d.pdf 分片成功，分片数量: 2
+2026-05-23 16:18:43,944 - ai_assistant - ERROR - 存储向量数据库时发生错误: Error code: 400 - {'error': {'message': '<400> InternalError.Algo.InvalidParameter: Value error, contents is neither str nor list of str.: input.contents', 'type': 'InvalidParameter', 'param': None, 'code': 'InvalidParameter'}, 'id': '5664ed0b-59bb-90d0-91c9-40ef4ce807d9', 'request_id': '5664ed0b-59bb-90d0-91c9-40ef4ce807d9'}
+2026-05-23 16:18:43,944 - ai_assistant - INFO - 文件 ./uploads\d296e996ec9b429a91091541f7ffb38d.pdf 存储向量数据库成功
+2026-05-23 16:18:58,579 - ai_assistant - INFO - 服务关闭
+2026-05-23 16:19:01,660 - ai_assistant - INFO - 服务启动成功
+2026-05-23 16:30:47,063 - ai_assistant - INFO - 服务关闭
+2026-05-23 16:30:49,987 - ai_assistant - INFO - 服务启动成功
+2026-05-23 16:31:01,408 - ai_assistant - INFO - 服务关闭
+2026-05-23 16:31:04,571 - ai_assistant - INFO - 服务启动成功
+2026-05-23 16:33:14,388 - ai_assistant - INFO - 服务关闭
+2026-05-23 16:33:17,347 - ai_assistant - INFO - 服务启动成功
+2026-05-23 16:36:07,479 - ai_assistant - INFO - 服务关闭
+2026-05-23 16:36:10,593 - ai_assistant - INFO - 服务启动成功
+2026-05-23 16:36:20,152 - ai_assistant - INFO - 服务关闭
+2026-05-23 16:36:23,100 - ai_assistant - INFO - 服务启动成功
+2026-05-23 16:36:35,155 - ai_assistant - INFO - 服务关闭
+2026-05-23 16:36:38,013 - ai_assistant - INFO - 服务启动成功
+2026-05-23 16:36:41,201 - ai_assistant - INFO - 服务关闭
+2026-05-23 16:36:44,210 - ai_assistant - INFO - 服务启动成功
+2026-05-23 16:39:08,808 - ai_assistant - INFO - 服务关闭
+2026-05-23 16:39:11,670 - ai_assistant - INFO - 服务启动成功
+2026-05-23 16:39:35,720 - ai_assistant - INFO - 服务关闭
+2026-05-23 16:39:38,635 - ai_assistant - INFO - 服务启动成功
+2026-05-23 16:40:54,790 - ai_assistant - INFO - 服务关闭
+2026-05-23 16:40:57,840 - ai_assistant - INFO - 服务启动成功
+2026-05-23 16:46:34,256 - ai_assistant - INFO - 服务关闭
+2026-05-23 16:46:37,226 - ai_assistant - INFO - 服务启动成功
+2026-05-23 16:52:29,818 - ai_assistant - INFO - 服务关闭
+2026-05-23 16:52:33,184 - ai_assistant - INFO - 服务启动成功
+2026-05-23 16:56:07,439 - ai_assistant - INFO - 服务关闭
+2026-05-23 16:56:10,216 - ai_assistant - INFO - 服务启动成功
+2026-05-23 16:56:25,085 - ai_assistant - INFO - 服务关闭
+2026-05-23 16:56:27,921 - ai_assistant - INFO - 服务启动成功
+2026-05-23 16:57:11,201 - ai_assistant - INFO - 服务关闭
+2026-05-23 16:57:14,061 - ai_assistant - INFO - 服务启动成功
+2026-05-23 16:59:00,718 - ai_assistant - INFO - 服务关闭
+2026-05-23 16:59:03,871 - ai_assistant - INFO - 服务启动成功
+2026-05-23 17:12:19,587 - ai_assistant - INFO - 服务关闭
+2026-05-23 17:12:23,110 - ai_assistant - INFO - 服务启动成功
+2026-05-23 17:18:58,245 - ai_assistant - INFO - 服务关闭
+2026-05-23 17:19:01,128 - ai_assistant - INFO - 服务启动成功
+2026-05-23 17:19:42,194 - ai_assistant - INFO - 服务关闭
+2026-05-23 17:19:46,984 - ai_assistant - INFO - 服务启动成功
+2026-05-23 17:19:49,971 - ai_assistant - INFO - 服务关闭
+2026-05-23 17:19:52,841 - ai_assistant - INFO - 服务启动成功
+2026-05-23 17:20:48,929 - ai_assistant - INFO - 服务关闭
+2026-05-23 17:20:52,010 - ai_assistant - INFO - 服务启动成功
+2026-05-23 17:23:10,523 - ai_assistant - INFO - 服务关闭
+2026-05-23 17:23:13,455 - ai_assistant - INFO - 服务启动成功
+2026-05-23 17:24:13,340 - ai_assistant - INFO - 服务关闭
+2026-05-23 17:24:16,345 - ai_assistant - INFO - 服务启动成功
+2026-05-23 17:24:50,103 - ai_assistant - INFO - 服务关闭
+2026-05-23 17:24:53,088 - ai_assistant - INFO - 服务启动成功
+2026-05-23 17:24:56,252 - ai_assistant - INFO - 服务关闭
+2026-05-23 17:24:59,278 - ai_assistant - INFO - 服务启动成功
+2026-05-23 17:26:39,649 - ai_assistant - INFO - 服务关闭
+2026-05-23 17:26:42,612 - ai_assistant - INFO - 服务启动成功
+2026-05-23 17:26:54,861 - ai_assistant - INFO - 服务关闭
+2026-05-23 17:27:08,825 - ai_assistant - INFO - 服务启动成功
+2026-05-23 17:27:30,365 - ai_assistant - INFO - 服务关闭
+2026-05-23 17:27:33,366 - ai_assistant - INFO - 服务启动成功
+2026-05-23 17:27:41,252 - ai_assistant - INFO - 服务关闭
+2026-05-23 17:27:45,570 - ai_assistant - INFO - 服务启动成功
+2026-05-23 17:28:03,380 - ai_assistant - INFO - 文件 ./uploads\04242777f8cb454db681cbd606faf223.pdf 加载成功，内容长度: 1576
+2026-05-23 17:28:03,383 - ai_assistant - INFO - 文件 ./uploads\04242777f8cb454db681cbd606faf223.pdf 清洗成功，内容长度: 1562
+2026-05-23 17:28:03,384 - ai_assistant - INFO - 文件 ./uploads\04242777f8cb454db681cbd606faf223.pdf 分片成功，分片数量: 2
+2026-05-23 17:28:03,712 - ai_assistant - INFO - 文件 ./uploads\04242777f8cb454db681cbd606faf223.pdf 存储向量数据库成功
+2026-05-23 17:48:06,873 - ai_assistant - INFO - 服务关闭
+2026-05-23 18:14:27,402 - ai_assistant - INFO - 服务启动成功
+2026-05-23 18:15:06,668 - ai_assistant - INFO - 服务关闭
+2026-05-23 18:15:09,818 - ai_assistant - INFO - 服务启动成功
+2026-05-23 18:16:49,327 - ai_assistant - INFO - 服务关闭
+2026-05-23 18:16:58,324 - ai_assistant - INFO - 服务启动成功
+2026-05-23 18:19:53,406 - ai_assistant - INFO - 服务关闭
+2026-05-23 18:19:56,947 - ai_assistant - INFO - 服务启动成功
+2026-05-23 18:21:02,291 - ai_assistant - INFO - 服务关闭
+2026-05-23 18:21:05,437 - ai_assistant - INFO - 服务启动成功
+2026-05-23 18:21:07,484 - ai_assistant - INFO - 文件 ./uploads\29b222a36f0541389c177a9a36a1cd1c.pdf 加载成功，内容长度: 1576
+2026-05-23 18:21:07,487 - ai_assistant - INFO - 文件 ./uploads\29b222a36f0541389c177a9a36a1cd1c.pdf 清洗成功，内容长度: 1562
+2026-05-23 18:21:07,488 - ai_assistant - INFO - 文件 ./uploads\29b222a36f0541389c177a9a36a1cd1c.pdf 分片成功，分片数量: 2
+2026-05-23 18:21:08,050 - ai_assistant - INFO - 文件 ./uploads\29b222a36f0541389c177a9a36a1cd1c.pdf 存储向量数据库成功
+2026-05-23 18:23:48,152 - ai_assistant - INFO - 服务关闭
+2026-05-23 18:23:51,180 - ai_assistant - INFO - 服务启动成功
+2026-05-23 20:56:38,217 - ai_assistant - INFO - 服务关闭
+2026-05-23 20:56:41,522 - ai_assistant - INFO - 服务启动成功
+2026-05-23 20:57:00,796 - ai_assistant - INFO - 服务关闭
+2026-05-23 20:57:04,574 - ai_assistant - INFO - 服务启动成功
+2026-05-23 20:59:06,705 - ai_assistant - INFO - 服务关闭
+2026-05-23 20:59:40,245 - ai_assistant - ERROR - 存储向量数据库时发生错误: Error code: 400 - {'error': {'message': 'input.texts should not be null', 'type': 'InvalidParameter', 'param': None, 'code': 'InvalidParameter'}, 'id': 'd187be47-df4c-9c5e-b775-3adb9fb9bce8', 'request_id': 'd187be47-df4c-9c5e-b775-3adb9fb9bce8'}
+2026-05-23 20:59:40,290 - ai_assistant - INFO - 服务启动成功
+2026-05-23 20:59:40,816 - ai_assistant - INFO - 服务关闭
+2026-05-23 20:59:44,633 - ai_assistant - ERROR - 存储向量数据库时发生错误: Error code: 400 - {'error': {'message': 'input.texts should not be null', 'type': 'InvalidParameter', 'param': None, 'code': 'InvalidParameter'}, 'id': '7fbf7443-6f14-916c-9178-5a3ce9f0edaf', 'request_id': '7fbf7443-6f14-916c-9178-5a3ce9f0edaf'}
+2026-05-23 20:59:44,685 - ai_assistant - INFO - 服务启动成功
+2026-05-23 21:00:43,802 - ai_assistant - INFO - 服务关闭
+2026-05-23 21:00:48,570 - ai_assistant - ERROR - 存储向量数据库时发生错误: Error code: 400 - {'error': {'message': 'input.texts should not be null', 'type': 'InvalidParameter', 'param': None, 'code': 'InvalidParameter'}, 'id': '01b7edcf-2d61-96ae-b37c-daa35a0dd3c8', 'request_id': '01b7edcf-2d61-96ae-b37c-daa35a0dd3c8'}
+2026-05-23 21:00:48,615 - ai_assistant - INFO - 服务启动成功
+2026-05-23 21:00:53,851 - ai_assistant - INFO - 服务关闭
+2026-05-23 21:00:57,399 - ai_assistant - ERROR - 存储向量数据库时发生错误: Error code: 400 - {'error': {'message': 'input.texts should not be null', 'type': 'InvalidParameter', 'param': None, 'code': 'InvalidParameter'}, 'id': '0aaa1c48-299a-9b68-b65b-f9643f5802a1', 'request_id': '0aaa1c48-299a-9b68-b65b-f9643f5802a1'}
+2026-05-23 21:00:57,446 - ai_assistant - INFO - 服务启动成功
+2026-05-23 21:01:39,349 - ai_assistant - INFO - 服务关闭
+2026-05-23 21:01:48,380 - ai_assistant - ERROR - 存储向量数据库时发生错误: Error code: 400 - {'error': {'message': 'input.texts should not be null', 'type': 'InvalidParameter', 'param': None, 'code': 'InvalidParameter'}, 'id': '0609fe8a-21f7-9e92-92bc-937e76e0aae9', 'request_id': '0609fe8a-21f7-9e92-92bc-937e76e0aae9'}
+2026-05-23 21:01:51,448 - ai_assistant - ERROR - 存储向量数据库时发生错误: Error code: 400 - {'error': {'message': 'input.texts should not be null', 'type': 'InvalidParameter', 'param': None, 'code': 'InvalidParameter'}, 'id': '2b44b150-cb14-9fef-9d3b-f8d20a2aa815', 'request_id': '2b44b150-cb14-9fef-9d3b-f8d20a2aa815'}
+2026-05-23 21:01:51,494 - ai_assistant - INFO - 服务启动成功
+2026-05-23 21:02:23,822 - ai_assistant - INFO - 服务关闭
+2026-05-23 21:02:32,857 - ai_assistant - ERROR - 存储向量数据库时发生错误: Error code: 400 - {'error': {'message': 'input.texts should not be null', 'type': 'InvalidParameter', 'param': None, 'code': 'InvalidParameter'}, 'id': '81730d3f-5bc7-97e5-9ec2-56c3bf740868', 'request_id': '81730d3f-5bc7-97e5-9ec2-56c3bf740868'}
+2026-05-23 21:02:35,868 - ai_assistant - ERROR - 存储向量数据库时发生错误: Error code: 400 - {'error': {'message': 'input.texts should not be null', 'type': 'InvalidParameter', 'param': None, 'code': 'InvalidParameter'}, 'id': '2a86f43f-a5b3-922b-8a15-d81977d916f5', 'request_id': '2a86f43f-a5b3-922b-8a15-d81977d916f5'}
+2026-05-23 21:02:35,914 - ai_assistant - INFO - 服务启动成功
+2026-05-23 21:20:50,925 - ai_assistant - INFO - 服务关闭
+2026-05-23 21:22:56,177 - ai_assistant - INFO - 服务启动成功
+2026-05-23 21:23:20,534 - ai_assistant - INFO - 服务关闭
+2026-05-23 21:23:23,692 - ai_assistant - INFO - 服务启动成功
+2026-05-23 21:23:43,805 - ai_assistant - INFO - 服务关闭
+2026-05-23 21:23:46,911 - ai_assistant - INFO - 服务启动成功
+2026-05-23 21:24:12,457 - ai_assistant - INFO - 服务关闭
+2026-05-23 21:24:15,575 - ai_assistant - INFO - 服务启动成功
+2026-05-23 21:25:07,800 - ai_assistant - INFO - 服务关闭
+2026-05-23 21:25:10,911 - ai_assistant - INFO - 服务启动成功
+2026-05-23 21:26:50,196 - ai_assistant - INFO - 服务关闭
+2026-05-23 21:26:53,537 - ai_assistant - INFO - 服务启动成功
+2026-05-23 21:27:13,290 - ai_assistant - INFO - 服务关闭
+2026-05-23 21:27:16,281 - ai_assistant - INFO - 服务启动成功
+2026-05-23 21:28:24,170 - ai_assistant - INFO - 服务关闭
+2026-05-23 21:28:27,215 - ai_assistant - INFO - 服务启动成功
+2026-05-23 21:28:47,236 - ai_assistant - INFO - 文件 ./uploads\f12d80520c30447cbc9a07790a613f0a.pdf 加载成功，内容长度: 1576
+2026-05-23 21:28:47,240 - ai_assistant - INFO - 文件 ./uploads\f12d80520c30447cbc9a07790a613f0a.pdf 清洗成功，内容长度: 1562
+2026-05-23 21:28:47,241 - ai_assistant - INFO - 文件 ./uploads\f12d80520c30447cbc9a07790a613f0a.pdf 分片成功，分片数量: 2
+2026-05-23 21:28:47,241 - ai_assistant - ERROR - 存储向量数据库时发生错误: 'NoneType' object has no attribute '_embed_documents'
+2026-05-23 21:28:47,241 - ai_assistant - INFO - 文件 ./uploads\f12d80520c30447cbc9a07790a613f0a.pdf 存储向量数据库成功
+2026-05-23 21:29:38,770 - ai_assistant - INFO - 服务关闭
+2026-05-23 21:29:41,801 - ai_assistant - INFO - 服务启动成功
+2026-05-23 21:30:14,847 - ai_assistant - INFO - 文件 ./uploads\2016f47958484fc98f5deafbc5c1e390.pdf 加载成功，内容长度: 1576
+2026-05-23 21:30:14,850 - ai_assistant - INFO - 文件 ./uploads\2016f47958484fc98f5deafbc5c1e390.pdf 清洗成功，内容长度: 1562
+2026-05-23 21:30:14,851 - ai_assistant - INFO - 文件 ./uploads\2016f47958484fc98f5deafbc5c1e390.pdf 分片成功，分片数量: 2
+2026-05-23 21:30:15,063 - ai_assistant - ERROR - 存储向量数据库时发生错误: Error code: 400 - {'error': {'message': '<400> InternalError.Algo.InvalidParameter: Value error, contents is neither str nor list of str.: input.contents', 'type': 'InvalidParameter', 'param': None, 'code': 'InvalidParameter'}, 'id': '8884bb47-d9d7-908f-b0ce-98674c6e18d1', 'request_id': '8884bb47-d9d7-908f-b0ce-98674c6e18d1'}
+2026-05-23 21:30:15,064 - ai_assistant - INFO - 文件 ./uploads\2016f47958484fc98f5deafbc5c1e390.pdf 存储向量数据库成功
+2026-05-23 21:34:00,069 - ai_assistant - INFO - 服务关闭
+2026-05-23 21:34:03,317 - ai_assistant - INFO - 服务启动成功
+2026-05-23 21:34:06,833 - ai_assistant - INFO - 文件 ./uploads\e15abc8529a34f2f99a024cfd14926a7.pdf 加载成功，内容长度: 1576
+2026-05-23 21:34:06,836 - ai_assistant - INFO - 文件 ./uploads\e15abc8529a34f2f99a024cfd14926a7.pdf 清洗成功，内容长度: 1562
+2026-05-23 21:34:06,838 - ai_assistant - INFO - 文件 ./uploads\e15abc8529a34f2f99a024cfd14926a7.pdf 分片成功，分片数量: 2
+2026-05-23 21:34:07,178 - ai_assistant - INFO - 文件 ./uploads\e15abc8529a34f2f99a024cfd14926a7.pdf 存储向量数据库成功
+2026-05-23 21:52:17,680 - ai_assistant - INFO - 服务关闭
+2026-05-23 21:52:20,724 - ai_assistant - ERROR - 加载向量数据库时发生错误: 'KnowledgeBaseService' object has no attribute 'embeddings'
+2026-05-23 21:52:20,800 - ai_assistant - INFO - 服务启动成功
+2026-05-23 21:52:35,280 - ai_assistant - INFO - 服务关闭
+2026-05-23 21:52:38,137 - ai_assistant - ERROR - 加载向量数据库时发生错误: 'KnowledgeBaseService' object has no attribute 'embeddings'
+2026-05-23 21:52:38,218 - ai_assistant - INFO - 服务启动成功
+2026-05-23 21:53:33,804 - ai_assistant - INFO - 服务关闭
+2026-05-23 21:53:36,645 - ai_assistant - ERROR - 加载向量数据库时发生错误: 'KnowledgeBaseService' object has no attribute 'embeddings'
+2026-05-23 21:53:36,721 - ai_assistant - INFO - 服务启动成功
+2026-05-23 21:54:15,765 - ai_assistant - INFO - 服务关闭
+2026-05-23 21:54:20,912 - ai_assistant - ERROR - 加载向量数据库时发生错误: 'KnowledgeBaseService' object has no attribute 'embeddings'
+2026-05-23 21:54:23,323 - ai_assistant - ERROR - 加载向量数据库时发生错误: 'KnowledgeBaseService' object has no attribute 'embeddings'
+2026-05-23 21:54:23,397 - ai_assistant - INFO - 服务启动成功
+2026-05-23 21:55:41,333 - ai_assistant - INFO - 服务关闭
+2026-05-23 21:55:44,290 - ai_assistant - ERROR - 加载向量数据库时发生错误: 'KnowledgeBaseService' object has no attribute 'embeddings'
+2026-05-23 21:55:44,364 - ai_assistant - INFO - 服务启动成功
+2026-05-23 21:55:59,104 - ai_assistant - INFO - 服务关闭
+2026-05-23 21:56:02,097 - ai_assistant - ERROR - 加载向量数据库时发生错误: 'KnowledgeBaseService' object has no attribute 'embeddings'
+2026-05-23 21:56:02,171 - ai_assistant - INFO - 服务启动成功
+2026-05-23 21:57:10,148 - ai_assistant - INFO - 服务关闭
+2026-05-23 21:57:13,142 - ai_assistant - ERROR - 加载向量数据库时发生错误: 'KnowledgeBaseService' object has no attribute 'embeddings'
+2026-05-23 21:57:13,223 - ai_assistant - INFO - 服务启动成功
+2026-05-23 21:57:17,959 - ai_assistant - INFO - 服务关闭
+2026-05-23 21:57:20,810 - ai_assistant - ERROR - 加载向量数据库时发生错误: 'KnowledgeBaseService' object has no attribute 'embeddings'
+2026-05-23 21:57:20,887 - ai_assistant - INFO - 服务启动成功
+2026-05-23 21:58:24,745 - ai_assistant - INFO - 服务关闭
+2026-05-23 21:58:27,576 - ai_assistant - ERROR - 加载向量数据库时发生错误: 'KnowledgeBaseService' object has no attribute 'embeddings'
+2026-05-23 21:58:46,428 - ai_assistant - ERROR - 加载向量数据库时发生错误: 'KnowledgeBaseService' object has no attribute 'embeddings'
+2026-05-23 21:58:46,502 - ai_assistant - INFO - 服务启动成功
+2026-05-23 21:58:53,957 - ai_assistant - INFO - 服务关闭
+2026-05-23 21:59:02,036 - ai_assistant - ERROR - 加载向量数据库时发生错误: 'KnowledgeBaseService' object has no attribute 'embeddings'
+2026-05-23 21:59:04,440 - ai_assistant - ERROR - 加载向量数据库时发生错误: 'KnowledgeBaseService' object has no attribute 'embeddings'
+2026-05-23 21:59:04,513 - ai_assistant - INFO - 服务启动成功
+2026-05-23 22:00:31,292 - ai_assistant - INFO - 服务关闭
+2026-05-23 22:00:34,246 - ai_assistant - ERROR - 加载向量数据库时发生错误: 'KnowledgeBaseService' object has no attribute 'embeddings'
+2026-05-23 22:00:34,321 - ai_assistant - INFO - 服务启动成功
+2026-05-23 22:01:53,397 - ai_assistant - INFO - 服务关闭
+2026-05-23 22:01:56,391 - ai_assistant - INFO - 服务启动成功
+2026-05-23 22:03:24,473 - ai_assistant - INFO - 服务关闭
+2026-05-23 22:03:27,450 - ai_assistant - INFO - 服务启动成功
+2026-05-23 22:05:04,089 - ai_assistant - INFO - 服务关闭
+2026-05-23 22:05:07,124 - ai_assistant - INFO - 服务启动成功
+2026-05-23 22:05:20,675 - ai_assistant - INFO - 服务关闭
+2026-05-23 22:05:23,823 - ai_assistant - INFO - 服务启动成功
+2026-05-23 22:06:05,146 - ai_assistant - INFO - 服务关闭
+2026-05-23 22:06:08,233 - ai_assistant - INFO - 服务启动成功
+2026-05-23 22:07:03,374 - ai_assistant - INFO - 服务关闭
+2026-05-23 22:07:11,129 - ai_assistant - INFO - 服务启动成功
+2026-05-23 22:10:29,252 - ai_assistant - INFO - 服务关闭
+2026-05-23 22:10:38,869 - ai_assistant - INFO - 服务启动成功
+2026-05-23 22:12:15,809 - ai_assistant - INFO - 服务关闭
+2026-05-23 22:33:31,980 - ai_assistant - INFO - 服务启动成功
+2026-05-23 22:33:41,910 - ai_assistant - INFO - 文件 ./uploads\4a5d9579e5f44375a26252802fe1e868.pdf 加载成功，内容长度: 1576
+2026-05-23 22:33:41,913 - ai_assistant - INFO - 文件 ./uploads\4a5d9579e5f44375a26252802fe1e868.pdf 清洗成功，内容长度: 1562
+2026-05-23 22:33:41,915 - ai_assistant - INFO - 文件 ./uploads\4a5d9579e5f44375a26252802fe1e868.pdf 分片成功，分片数量: 2
+2026-05-23 22:33:41,915 - ai_assistant - ERROR - 存储向量数据库时发生错误: VectorStore.add_documents() takes 2 positional arguments but 3 were given
+2026-05-23 22:33:41,915 - ai_assistant - INFO - 文件 ./uploads\4a5d9579e5f44375a26252802fe1e868.pdf 存储向量数据库成功
+2026-05-23 22:34:38,576 - ai_assistant - INFO - 服务关闭
+2026-05-23 22:34:41,574 - ai_assistant - INFO - 服务启动成功
+2026-05-23 22:35:08,150 - ai_assistant - INFO - 服务关闭
+2026-05-23 22:35:16,238 - ai_assistant - INFO - 服务启动成功
+2026-05-23 22:35:53,227 - ai_assistant - INFO - 文件 ./uploads\a8162f927aab4441b193117c1afbbae6.pdf 加载成功，内容长度: 1576
+2026-05-23 22:35:53,230 - ai_assistant - INFO - 文件 ./uploads\a8162f927aab4441b193117c1afbbae6.pdf 清洗成功，内容长度: 1562
+2026-05-23 22:35:53,231 - ai_assistant - INFO - 文件 ./uploads\a8162f927aab4441b193117c1afbbae6.pdf 分片成功，分片数量: 2
+2026-05-23 22:35:53,483 - ai_assistant - INFO - 文件 ./uploads\a8162f927aab4441b193117c1afbbae6.pdf 存储向量数据库成功
+2026-05-23 22:37:42,782 - ai_assistant - INFO - 服务关闭
+2026-05-23 22:37:45,897 - ai_assistant - INFO - 服务启动成功
+2026-05-23 22:40:08,763 - ai_assistant - INFO - 服务关闭
+2026-05-23 22:40:11,908 - ai_assistant - INFO - 服务启动成功
+2026-05-23 22:41:17,855 - ai_assistant - INFO - 服务关闭
+2026-05-23 22:43:35,366 - ai_assistant - INFO - 服务启动成功
+2026-05-23 22:46:47,832 - ai_assistant - INFO - 服务关闭
+2026-05-23 22:46:51,053 - ai_assistant - INFO - 服务启动成功
+2026-05-23 22:47:23,060 - ai_assistant - INFO - 服务关闭
+2026-05-23 22:47:26,202 - ai_assistant - INFO - 服务启动成功
+2026-05-23 22:58:11,509 - ai_assistant - INFO - 服务关闭
+2026-05-23 22:58:14,594 - ai_assistant - INFO - 服务启动成功
+2026-05-23 22:58:17,540 - ai_assistant - INFO - 服务关闭
+2026-05-23 22:58:20,509 - ai_assistant - INFO - 服务启动成功
+2026-05-23 22:58:54,771 - ai_assistant - INFO - 服务关闭
+2026-05-23 22:58:57,940 - ai_assistant - INFO - 服务启动成功
+2026-05-23 22:59:42,889 - ai_assistant - INFO - 服务关闭
+2026-05-23 22:59:45,981 - ai_assistant - INFO - 服务启动成功
+2026-05-23 23:02:49,458 - ai_assistant - INFO - 服务关闭
+2026-05-23 23:02:52,745 - ai_assistant - INFO - 服务启动成功
+2026-05-23 23:03:53,157 - ai_assistant - INFO - 服务关闭
+2026-05-23 23:03:56,359 - ai_assistant - INFO - 服务启动成功
+2026-05-23 23:05:26,636 - ai_assistant - INFO - 服务关闭
+2026-05-23 23:05:29,675 - ai_assistant - INFO - 服务启动成功
+2026-05-23 23:07:15,739 - ai_assistant - INFO - 服务关闭
+2026-05-23 23:07:18,976 - ai_assistant - INFO - 服务启动成功
+2026-05-23 23:08:35,790 - ai_assistant - INFO - 服务关闭
+2026-05-23 23:08:38,778 - ai_assistant - INFO - 服务启动成功
+2026-05-23 23:08:49,687 - ai_assistant - INFO - 服务关闭
+2026-05-23 23:08:53,050 - ai_assistant - INFO - 服务启动成功
+2026-05-23 23:10:18,591 - ai_assistant - INFO - 服务关闭
+2026-05-23 23:10:21,684 - ai_assistant - INFO - 服务启动成功
+2026-05-23 23:13:53,062 - ai_assistant - INFO - 服务关闭
+2026-05-23 23:13:56,344 - ai_assistant - INFO - 服务启动成功
+2026-05-23 23:13:57,215 - ai_assistant - INFO - 服务关闭
+2026-05-23 23:14:00,239 - ai_assistant - INFO - 服务启动成功
+2026-05-23 23:14:29,480 - ai_assistant - INFO - 服务关闭
+2026-05-23 23:14:32,543 - ai_assistant - INFO - 服务启动成功
+2026-05-23 23:15:29,897 - ai_assistant - INFO - 服务关闭
+2026-05-23 23:15:32,961 - ai_assistant - INFO - 服务启动成功
+2026-05-23 23:16:26,348 - ai_assistant - INFO - 服务关闭
+2026-05-23 23:16:29,336 - ai_assistant - INFO - 服务启动成功
+2026-05-23 23:16:41,455 - ai_assistant - INFO - 服务关闭
+2026-05-23 23:16:51,950 - ai_assistant - INFO - 服务启动成功
+2026-05-23 23:17:55,950 - ai_assistant - INFO - 服务关闭
+2026-05-23 23:17:59,012 - ai_assistant - INFO - 服务启动成功
+2026-05-23 23:20:19,332 - ai_assistant - INFO - 服务关闭
+2026-05-23 23:20:22,445 - ai_assistant - INFO - 服务启动成功
+2026-05-23 23:23:40,498 - ai_assistant - INFO - 服务关闭
+2026-05-23 23:23:43,622 - ai_assistant - INFO - 服务启动成功
+2026-05-23 23:29:53,850 - ai_assistant - INFO - 服务关闭
+2026-05-23 23:29:56,886 - ai_assistant - INFO - 服务启动成功
+2026-05-23 23:40:23,290 - ai_assistant - INFO - 服务关闭
+2026-05-23 23:40:26,710 - ai_assistant - INFO - 服务启动成功
+2026-05-23 23:42:54,931 - ai_assistant - INFO - 服务关闭
+2026-05-23 23:42:58,247 - ai_assistant - INFO - 服务启动成功
+2026-05-23 23:43:01,399 - ai_assistant - INFO - 服务关闭
+2026-05-23 23:43:04,341 - ai_assistant - INFO - 服务启动成功
+2026-05-23 23:43:17,447 - ai_assistant - INFO - 服务关闭
+2026-05-23 23:43:20,465 - ai_assistant - INFO - 服务启动成功
+2026-05-23 23:44:45,771 - ai_assistant - INFO - 服务关闭
+2026-05-23 23:44:48,771 - ai_assistant - INFO - 服务启动成功
+2026-05-23 23:46:01,351 - ai_assistant - INFO - 服务关闭
+2026-05-23 23:46:04,398 - ai_assistant - INFO - 服务启动成功
+2026-05-23 23:47:15,426 - ai_assistant - INFO - 服务关闭
+2026-05-23 23:47:18,318 - ai_assistant - INFO - 服务启动成功
+2026-05-23 23:48:50,575 - ai_assistant - INFO - 服务关闭
+2026-05-23 23:48:53,764 - ai_assistant - INFO - 服务启动成功
+2026-05-23 23:49:24,875 - ai_assistant - INFO - 服务关闭
+2026-05-23 23:49:27,822 - ai_assistant - INFO - 服务启动成功
+2026-05-23 23:50:27,154 - ai_assistant - INFO - 服务关闭
+2026-05-23 23:50:30,107 - ai_assistant - INFO - 服务启动成功
+2026-05-23 23:53:47,813 - ai_assistant - INFO - 服务关闭
+2026-05-23 23:53:50,864 - ai_assistant - INFO - 服务启动成功
+2026-05-23 23:54:49,876 - ai_assistant - INFO - 服务关闭
+2026-05-23 23:54:52,939 - ai_assistant - INFO - 服务启动成功
+2026-05-23 23:55:48,278 - ai_assistant - INFO - 服务关闭
+2026-05-23 23:55:51,279 - ai_assistant - INFO - 服务启动成功
+2026-05-25 12:58:47,622 - ai_assistant - INFO - 服务关闭
+2026-05-25 12:58:53,199 - ai_assistant - INFO - 服务启动成功
+2026-05-25 12:59:01,700 - ai_assistant - INFO - 服务关闭
+2026-05-25 12:59:04,694 - ai_assistant - INFO - 服务启动成功
+2026-05-25 12:59:11,870 - ai_assistant - INFO - 服务关闭
+2026-05-25 12:59:14,814 - ai_assistant - INFO - 服务启动成功

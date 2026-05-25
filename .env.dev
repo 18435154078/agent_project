@@ -9,3 +9,4 @@ REDIS_DB=0
 
 # RAG
 CHROMA_DB_DIR=./chroma_db
+UPLOAD_DIR=./uploads

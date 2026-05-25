@@ -1,58 +1,39 @@
-from fastapi import APIRouter, Request
-from fastapi.responses import StreamingResponse
+from fastapi import APIRouter
 from pydantic import BaseModel
 from typing import Optional
-import json
-
-from core.config import settings
-from core.logger import logger
-from memory.redis_conn import save_message, get_history
-from langchain_openai import ChatOpenAI
-from langchain_core.messages import HumanMessage, SystemMessage
+from fastapi import HTTPException
+from rag.knowledge_base_service import knowledge_base_service
+from pydantic import Field, field_validator
+from schemas.response import ApiResponse
 
 router = APIRouter(prefix="/api/chat", tags=["对话接口"])
 
-# 初始化大模型
-llm = ChatOpenAI(
-    openai_api_key=settings.DOUBAO_API_KEY,
-    openai_api_base=settings.DOUBAO_BASE_URL,
-    model=settings.DOUBAO_MODEL,
-    streaming=True,
-    temperature=0
-)
-
 class ChatRequest(BaseModel):
-    message: str
-    session_id: Optional[str] = None
+    message: str = Field(..., description="用户输入的消息")
+    session_id: Optional[str] = Field(None, description="会话ID，用于区分不同用户的对话历史")
+    @field_validator("message")
+    def check_message_not_empty(cls, v):
+        if not v or not v.strip():
+            raise HTTPException(status_code=400, detail="message不能为空")
+        return v.strip()
 
-@router.post("/stream")
+    @field_validator("session_id")
+    def check_session_id_not_empty(cls, v):
+        if not v or not v.strip():
+            raise HTTPException(status_code=400, detail="session_id不能为空")
+        return v.strip()
+
+@router.post("/chat")
+async def chat(req: ChatRequest):
+    message = req.message
+    session_id = req.session_id
+    response = knowledge_base_service.chat(message, session_id)
+    return ApiResponse(data=response)
+
+
+@router.post("/chat/stream")
 async def chat_stream(req: ChatRequest):
-    session_id = req.session_id or f"session_{id(req)}"
-
-    # 1. 保存用户消息到Redis
-    save_message(session_id, "user", req.message)
-    history = get_history(session_id)
-
-    # 2. 拼接历史对话为消息列表
-    messages = [SystemMessage(content="你是一个脾气暴躁的AI助手，简要回答。")]
-    for line in reversed(history):
-        role, content = line.split(":", 1)
-        if role == "user":
-            messages.append(HumanMessage(content=content))
-        elif role == "assistant":
-            messages.append({"role": "assistant", "content": content})
-
-    logger.info(f"收到请求，session_id: {session_id}")
-
-    # 3. 流式返回
-    async def generate():
-        response_content = ""
-        async for chunk in llm.astream(messages):
-            if chunk.content:
-                response_content += chunk.content
-                yield f"data: {json.dumps({'content': chunk.content}, ensure_ascii=False)}\n\n"
-        # 保存AI回复到Redis
-        save_message(session_id, "assistant", response_content)
-        yield "data: [DONE]\n\n"
-
-    return StreamingResponse(generate(), media_type="text/event-stream")
+    message = req.message
+    session_id = req.session_id
+    return knowledge_base_service.chat_stream(message, session_id)
+    

@@ -3,4 +3,7 @@ __pycache__/
 *.pyc
 .env
 app.log
+uploads/
 .DS_Store
+.vscode/
+.idea/
