@@ -1,5 +1,5 @@
-# 第一阶段：构建依赖（使用阿里云镜像，不会超时）
-FROM registry.aliyuncs.com/library/python:3.11.9 AS builder
+# 第一阶段：构建依赖（使用官方镜像）
+FROM python:3.11.9 AS builder
 
 # 升级pip，使用清华源加速
 RUN pip install --upgrade pip -i https://pypi.tuna.tsinghua.edu.cn/simple
@@ -12,8 +12,11 @@ COPY requirements.txt .
 # 下载所有依赖的wheel包
 RUN pip wheel --no-cache-dir --wheel-dir /wheels -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 
-# 第二阶段：运行阶段（同样使用阿里云镜像）
-FROM registry.aliyuncs.com/library/python:3.11.9
+# 第二阶段：运行阶段（同样使用官方镜像）
+FROM python:3.11.9
+
+# 在这里加环境变量
+ENV env=pro
 
 # 创建非root用户，提高安全性
 RUN useradd -m appuser
