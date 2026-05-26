@@ -4,6 +4,7 @@ __pycache__/
 .env
 app.log
 uploads/*
+!uploads/.gitkeep
 .DS_Store
 .vscode/
 .idea/
