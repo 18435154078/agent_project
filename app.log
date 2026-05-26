@@ -621,3 +621,20 @@
 2026-05-26 13:23:27,496 - ai_assistant - INFO - 文件 ./uploads\4be7960992b1445aba8183ba996ac0b1.txt 分片成功，分片数量: 1
 2026-05-26 13:23:27,848 - ai_assistant - INFO - 文件 ./uploads\4be7960992b1445aba8183ba996ac0b1.txt 存储向量数据库成功
 2026-05-26 13:34:20,479 - ai_assistant - INFO - 服务关闭
+2026-05-26 13:34:23,562 - ai_assistant - INFO - 服务启动成功
+2026-05-26 13:37:55,876 - ai_assistant - INFO - 文件 ./uploads\277e983b90324f5f9ffe277c81d912ba.txt 加载成功，内容长度: 833
+2026-05-26 13:37:55,880 - ai_assistant - INFO - 文件 ./uploads\277e983b90324f5f9ffe277c81d912ba.txt 清洗成功，内容长度: 827
+2026-05-26 13:37:55,881 - ai_assistant - INFO - 文件 ./uploads\277e983b90324f5f9ffe277c81d912ba.txt 分片成功，分片数量: 1
+2026-05-26 13:37:56,078 - ai_assistant - ERROR - 存储向量数据库时发生错误: 'list' object has no attribute 'save_local'
+2026-05-26 13:39:09,873 - ai_assistant - INFO - 服务关闭
+2026-05-26 13:39:12,993 - ai_assistant - INFO - 服务启动成功
+2026-05-26 13:39:46,884 - ai_assistant - INFO - 文件 ./uploads\1361f7c8043047a1890a43a955d29fbf.txt 加载成功，内容长度: 833
+2026-05-26 13:39:46,887 - ai_assistant - INFO - 文件 ./uploads\1361f7c8043047a1890a43a955d29fbf.txt 清洗成功，内容长度: 827
+2026-05-26 13:39:46,888 - ai_assistant - INFO - 文件 ./uploads\1361f7c8043047a1890a43a955d29fbf.txt 分片成功，分片数量: 1
+2026-05-26 13:39:47,110 - ai_assistant - ERROR - 存储向量数据库时发生错误: 'list' object has no attribute 'save_local'
+2026-05-26 13:40:22,432 - ai_assistant - INFO - 服务关闭
+2026-05-26 13:40:25,393 - ai_assistant - INFO - 服务启动成功
+2026-05-26 13:40:29,028 - ai_assistant - INFO - 文件 ./uploads\c00b134e439a4694bd8c0755751fd756.txt 加载成功，内容长度: 833
+2026-05-26 13:40:29,031 - ai_assistant - INFO - 文件 ./uploads\c00b134e439a4694bd8c0755751fd756.txt 清洗成功，内容长度: 827
+2026-05-26 13:40:29,032 - ai_assistant - INFO - 文件 ./uploads\c00b134e439a4694bd8c0755751fd756.txt 分片成功，分片数量: 1
+2026-05-26 13:40:29,293 - ai_assistant - INFO - 文件 ./uploads\c00b134e439a4694bd8c0755751fd756.txt 存储向量数据库成功
