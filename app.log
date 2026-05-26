@@ -599,3 +599,25 @@
 2026-05-25 12:59:04,694 - ai_assistant - INFO - 服务启动成功
 2026-05-25 12:59:11,870 - ai_assistant - INFO - 服务关闭
 2026-05-25 12:59:14,814 - ai_assistant - INFO - 服务启动成功
+2026-05-26 13:20:17,885 - ai_assistant - ERROR - 加载向量数据库时发生错误: Error in __cdecl faiss::FileIOReader::FileIOReader(const char *) at D:\a\faiss\faiss\faiss\impl\io.cpp:70: Error: 'f' failed: could not open chroma_db\index.faiss for reading: No such file or directory
+2026-05-26 13:20:20,411 - ai_assistant - ERROR - 加载向量数据库时发生错误: Error in __cdecl faiss::FileIOReader::FileIOReader(const char *) at D:\a\faiss\faiss\faiss\impl\io.cpp:70: Error: 'f' failed: could not open chroma_db\index.faiss for reading: No such file or directory
+2026-05-26 13:20:20,518 - ai_assistant - INFO - 服务启动成功
+2026-05-26 13:20:37,054 - ai_assistant - INFO - 文件 ./uploads\64e1d981378f48979e76541f07602f3e.txt 加载成功，内容长度: 833
+2026-05-26 13:20:37,057 - ai_assistant - INFO - 文件 ./uploads\64e1d981378f48979e76541f07602f3e.txt 清洗成功，内容长度: 827
+2026-05-26 13:20:37,058 - ai_assistant - INFO - 文件 ./uploads\64e1d981378f48979e76541f07602f3e.txt 分片成功，分片数量: 1
+2026-05-26 13:20:37,256 - ai_assistant - INFO - 文件 ./uploads\64e1d981378f48979e76541f07602f3e.txt 存储向量数据库成功
+2026-05-26 13:22:48,134 - ai_assistant - INFO - 服务关闭
+2026-05-26 13:22:51,179 - ai_assistant - INFO - 服务启动成功
+2026-05-26 13:23:05,743 - ai_assistant - INFO - 文件 ./uploads\f7b372ac55744fefad44ff30ed05fd8c.txt 加载成功，内容长度: 833
+2026-05-26 13:23:05,746 - ai_assistant - INFO - 文件 ./uploads\f7b372ac55744fefad44ff30ed05fd8c.txt 清洗成功，内容长度: 827
+2026-05-26 13:23:05,747 - ai_assistant - INFO - 文件 ./uploads\f7b372ac55744fefad44ff30ed05fd8c.txt 分片成功，分片数量: 1
+2026-05-26 13:23:05,747 - ai_assistant - ERROR - 存储向量数据库时发生错误: VectorStore.add_documents() missing 1 required positional argument: 'self'
+2026-05-26 13:23:05,748 - ai_assistant - INFO - 文件 ./uploads\f7b372ac55744fefad44ff30ed05fd8c.txt 存储向量数据库成功
+2026-05-26 13:23:18,884 - ai_assistant - INFO - 服务关闭
+2026-05-26 13:23:21,840 - ai_assistant - ERROR - 加载向量数据库时发生错误: Error in __cdecl faiss::FileIOReader::FileIOReader(const char *) at D:\a\faiss\faiss\faiss\impl\io.cpp:70: Error: 'f' failed: could not open chroma_db\index.faiss for reading: No such file or directory
+2026-05-26 13:23:21,887 - ai_assistant - INFO - 服务启动成功
+2026-05-26 13:23:27,491 - ai_assistant - INFO - 文件 ./uploads\4be7960992b1445aba8183ba996ac0b1.txt 加载成功，内容长度: 833
+2026-05-26 13:23:27,495 - ai_assistant - INFO - 文件 ./uploads\4be7960992b1445aba8183ba996ac0b1.txt 清洗成功，内容长度: 827
+2026-05-26 13:23:27,496 - ai_assistant - INFO - 文件 ./uploads\4be7960992b1445aba8183ba996ac0b1.txt 分片成功，分片数量: 1
+2026-05-26 13:23:27,848 - ai_assistant - INFO - 文件 ./uploads\4be7960992b1445aba8183ba996ac0b1.txt 存储向量数据库成功
+2026-05-26 13:34:20,479 - ai_assistant - INFO - 服务关闭

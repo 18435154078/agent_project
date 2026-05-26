@@ -63,12 +63,13 @@ class KnowledgeBaseService:
   def _add_chunks_to_db(self, chunks: list):
     try:
       if self._db == None:
-        self._db = FAISS.from_documents(chunks, self._embeddings)
+        self._db = self._db.from_documents(chunks, self._embeddings)
       else:
-        self._db = FAISS.add_documents(chunks)
+        self._db = self._db.add_documents(chunks)
       self._db.save_local(settings.CHROMA_DB_DIR)
     except Exception as e:
-      logger.error(f"存储向量数据库时发生错误: {e}")  
+      raise logger.error(f"存储向量数据库时发生错误: {e}")  
+
 
   def upload_file(self, file_path: str):  # 整个流程：加载文件 -> 文本清洗 -> 文本分片 -> 存储向量数据库
     # 文档加载
